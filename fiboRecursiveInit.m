@@ -4,3 +4,4 @@ function [f] = fiboRecursiveInit(n)
     f = fiboRecursive(n);
     fprintf('It took %d function calls to calculate that the %dth Fibonacci Number is %d.\n',count,n,f);
 end
+%merge conflict test
